@@ -1,0 +1,6 @@
+/* a 링크 초기화 */
+a {text-decoration:none;}
+/* 폰트 초기화 */
+body,div,ul,li,dl,dd,dt,ol,h1,h2,h4{
+    font-family: 'Nanum Gothic','맑은 고딕','돋움';
+}
